@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Adwik Verma</h1>
 
-<h3 align="center">ECE @ IIT Patna | ML • Quant Finance • Full Stack</h3>
+<h3 align="center">ECE @ IIT Patna | ML • DL • Software Development • Quant Finance </h3>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=250&section=header&text=Adwik%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
