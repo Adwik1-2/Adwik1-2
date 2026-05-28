@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Adwik Verma</h1>
 
-<h3 align="center">ECE @ IIT Patna | ML • DL • Software Development • Quant Finance </h3>
+<h3 align="center">ECE @ IIT Patna | ML • Quant Finance • Full Stack</h3>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=250&section=header&text=Adwik%20Verma&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
@@ -20,42 +20,13 @@
 - 🎓 B.Tech in Electronics and Communication Engineering at IIT Patna
 - 🤖 Interested in Machine Learning, Deep Learning, and Quant Finance
 - 📊 Building ML-powered applications and full-stack systems
-- 🌱 Exploring Reinforcement Learning and Financial ML
 
 ---
 
 # 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,fastapi,nextjs,react,mongodb,git,linux,mysql"/>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adwik1-2&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adwik1-2&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Adwik1-2&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adwik1-2&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,fastapi,react,mongodb,git,linux"/>
 </p>
 
 ---
@@ -104,10 +75,4 @@ Worked on deep learning, time-series forecasting, and computer vision based appl
 </a>
 
 </p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Adwik1-2&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
+```
